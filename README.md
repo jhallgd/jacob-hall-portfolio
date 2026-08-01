@@ -5,7 +5,7 @@ IT professional with a **Master of Information Technology** and hands-on
 experience delivering technology solutions across cloud, data, and web domains.
 
 **Core Experience:**
-- Led cloud migration projects from on-premise to AWS environments
+- Led cloud migration projects from on-premises to AWS environments
 - Database development, SQL optimization, and analytics reporting
 - Web development using React, Java, HTML, CSS, and PHP
 - Project management, Agile/Scrum leadership, and cross-functional 
@@ -35,6 +35,7 @@ experience delivering technology solutions across cloud, data, and web domains.
 
 ### 🏛️ Senate Simulation — Civic Education Web Application
 GitHub: https://github.com/jhallgd/Senate-Simulation
+
 A self-initiated, work-based civic technology platform designed to make 
 the U.S. legislative process interactive and accessible. Conceived, 
 pitched, and built independently — not requested by employer.
