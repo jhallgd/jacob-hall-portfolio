@@ -7,7 +7,7 @@ experience delivering technology solutions across cloud, data, and web domains.
 **Core Experience:**
 - Led cloud migration projects from on-premises to AWS environments
 - Database development, SQL optimization, and analytics reporting
-- Web development using React, Java, HTML, CSS, and PHP
+- Web development using React, Typescript, HTML, CSS, and PHP
 - Project management, Agile/Scrum leadership, and cross-functional 
   team coordination
 
