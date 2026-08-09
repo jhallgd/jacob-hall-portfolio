@@ -33,6 +33,37 @@ experience delivering technology solutions across cloud, data, and web domains.
 
 ## 🚀 Projects
 
+### 🏥 Statewide Chronic Condition Trends — Data Pipeline & Predictive Analytics
+An end-to-end data engineering pipeline built solo for the 
+Virginia Tech MIT program. Collects, cleans, transforms, and 
+analyzes CMS healthcare data across the United States — using 
+a Keras neural network to predict future chronic condition 
+trends across 21 conditions nationwide.
+
+**Key Features:**
+- 🔄 End-to-end automated data pipeline
+- 🧠 Keras neural network predictive modeling
+- 🦠 21 chronic conditions tracked nationwide
+- ✈️ Apache Airflow DAG orchestration
+- 📊 Interactive Tableau dashboard
+- 🗄️ CMS data source integration
+
+**Tech Stack:**
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Keras |
+| Orchestration | Apache Airflow |
+| Visualization | Tableau |
+| Data Source | CMS |
+
+**Links:**
+- 📊 [Live Tableau Dashboard](https://public.tableau.com/app/profile/jacob.hall2101/viz/ChronicConditions_17015398817220/Overall)
+- 💻 [GitHub Repository](https://github.com/jhallgd/Working-Statewide-Chronic-Condition-Trends)
+
+---
+
 ### 🏛️ Senate Simulation — Civic Education Web Application
 GitHub: https://github.com/jhallgd/Senate-Simulation
 
