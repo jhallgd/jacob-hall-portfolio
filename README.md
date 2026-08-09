@@ -33,6 +33,36 @@ experience delivering technology solutions across cloud, data, and web domains.
 
 ## 🚀 Projects
 
+### 🛍️ Secret Stash — Full-Stack Bookstore Web Application
+A React + TypeScript bookstore storefront built for CS 5244 
+in the Virginia Tech Master of Information Technology program. 
+Features a complete shopping cart, checkout flow, and account 
+creation connecting to a shared Node.js REST API server.
+
+**Key Features:**
+- 🛒 Browse books by category with suggested titles
+- 🛍️ Shopping cart with add/remove functionality
+- 💳 Complete checkout and transaction processing
+- 👤 Account creation after checkout
+- 📱 Responsive desktop and mobile design
+- 🔌 Demo checkout mode for local development
+
+**Tech Stack:**
+| Layer | Technology |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Routing | React Router |
+| State | Context API |
+| Forms | Formik, Yup |
+| API Client | Axios |
+| Backend | Node.js, Express, MySQL |
+
+**Links:**
+- 🌐 [Live Demo](https://jacob-hall.com/projects/secret-stash/)
+- 💻 [GitHub Repository](https://github.com/jhallgd/Secret-Stash-Bookstore)
+
+---
+
 ### 🏛️ Senate Simulation — Civic Education Web Application
 GitHub: https://github.com/jhallgd/Senate-Simulation
 
