@@ -102,6 +102,7 @@ experience where users actively participate in the democratic process.
 - 🏢 Built in a professional work environment
 - 🎯 Transforms complex civic content into engaging UX
 
+---
 
 ### 📚 Secret Stash — Full-Stack Bookstore Web Application
 A full-stack bookstore web application built over 4 months, featuring 
@@ -131,6 +132,32 @@ automated checkout system.
 
 **Project Scope:** 4 months | Full-stack | Solo build
 
+---
+### 🧭 Pathfinder — Reinforcement Learning Simulation
+A Python Q-learning simulation that trains an agent 
+to navigate changing obstacle environments without 
+relearning from scratch. Built for the Virginia Tech 
+MIT program with real-world application framing for 
+autonomous exploration in space and deep sea systems.
+
+**Key Features:**
+- 🤖 Q-learning agent implementation from scratch
+- 🔄 Transfer learning across new environments
+- 📊 Matplotlib training vs test visualization
+- 🖥️ Interactive Tkinter simulation windows
+- ⚙️ Configurable hyperparameters
+
+**Tech Stack:**
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Computing | NumPy |
+| Visualization | Matplotlib |
+| UI | Tkinter |
+| Model | Q-learning |
+
+**Links:**
+- 💻 [GitHub Repository](https://github.com/jhallgd/pathfinder)
 ---
 
 ## 📚 Currently Learning
